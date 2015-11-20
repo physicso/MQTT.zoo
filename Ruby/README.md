@@ -1,4 +1,4 @@
-First make sure Rubygems is installed, then we need to install ruby-mqtt. Since the official mqtt gem mirror cannot be visited, we have to complie the source files:
+First make sure Rubygems is installed, then we need to install [ruby-mqtt]. Since the official mqtt gem mirror cannot be visited, we have to complie the source files:
 
     git clone https://github.com/njh/ruby-mqtt.git
 
@@ -9,3 +9,5 @@ First make sure Rubygems is installed, then we need to install ruby-mqtt. Since 
     gem install --local mqtt-x.x.x.gem
 
 Now we are ready to code!
+
+[ruby-mqtt]:    https://github.com/njh/ruby-mqtt
