@@ -15,7 +15,7 @@ A Note on RabbitMQ
 
 For users who are using [RabbitMQ] as the MQTT broker, please remind that the username for authentication should be:
 
-    vitual-host-name:username
+    virtual-host-name:username
 
 For more information, please visit [RabbitMQ MQTT Adapter] page.
 
@@ -24,5 +24,5 @@ For more information, please visit [RabbitMQ MQTT Adapter] page.
 
 
 [MQTT protocol]:           http://mqtt.org/
-[RabbitMQ]                 http://www.rabbitmq.com/
+[RabbitMQ]:                http://www.rabbitmq.com/
 [RabbitMQ MQTT Adapter]:   http://www.rabbitmq.com/mqtt.html
