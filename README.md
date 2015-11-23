@@ -9,6 +9,8 @@ Overview
 
 Although simple enough (I am continuously revising them), MQTT.zoo enables people with few programming skills of a particular language struggling to connect their geek stuff to the Internet through [MQTT protocol], an excellent transmitting protocol designed for IoT (Internet of Things).
 
+The approaches given here are suitable for any operating system.
+
 
 A Note on RabbitMQ
 ------------
